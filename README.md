@@ -16,7 +16,7 @@ Das Passwort steht bewusst nirgends in diesem Repository. Es wird separat weiter
 
 - Keine Anfragen an fremde Server: Schriften (Archivo, IBM Plex, SIL Open Font License) sind eingebettet, kein Google Fonts, keine Karten, Videos oder Plugins.
 - Keine Cookies, kein Tracking. Vercel Web Analytics und Speed Insights sind nicht eingebunden und dürfen es auch nicht werden, ohne die Datenschutzerklärung anzupassen.
-- Hosting bei Vercel Inc. (USA). Die Datenschutzerklärung nennt den Anbieter, die Datenübermittlung (EU-U.S. Data Privacy Framework, Standardvertragsklauseln) und den Auftragsverarbeitungsvertrag (Vercel DPA, gilt für Pro- und Enterprise-Teams).
+- Hosting bei Vercel Inc. (USA). Die Datenschutzerklärung nennt den Anbieter, die Datenübermittlung (EU-U.S. Data Privacy Framework, Standardvertragsklauseln) und den Auftragsverarbeitungsvertrag (Vercel DPA). Den DPA gibt es nur für Pro- und Enterprise-Teams; das Team läuft derzeit im Hobby-Tarif, der Satz ist deshalb als Platzhalter markiert.
 
 ## Änderungen
 
@@ -29,6 +29,7 @@ Ein geteiltes Passwort ist ein Sichtschutz, keine Zugriffskontrolle.
 ## Vor dem Livegang auf ecowerth.de / ecowerth.com
 
 1. Offene Angaben im Impressum und in der Datenschutzerklärung ergänzen (rot markierte Platzhalter: Handelsregister, USt-IdNr., ggf. Datenschutzbeauftragter).
-2. Domains im Vercel-Projekt hinzufügen und die DNS-Einträge beim Domain-Anbieter setzen.
-3. Login entfernen, `robots.txt` und den Header `X-Robots-Tag` freigeben.
-4. Kontaktformular erst mit Formulardienst und ergänzter Datenschutzerklärung in Betrieb nehmen.
+2. Vercel-Team auf Pro umstellen: nur dann gilt der DPA, und Hobby ist laut Vercel ausschließlich für nicht-kommerzielle Nutzung. Danach den Platzhalter zum DPA entfernen.
+3. Domains im Vercel-Projekt hinzufügen und die DNS-Einträge beim Domain-Anbieter setzen.
+4. Login entfernen, `robots.txt` und den Header `X-Robots-Tag` freigeben.
+5. Kontaktformular erst mit Formulardienst und ergänzter Datenschutzerklärung in Betrieb nehmen.

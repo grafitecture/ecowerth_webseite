@@ -18,6 +18,12 @@ Das Passwort steht bewusst nirgends in diesem Repository. Es wird separat weiter
 - Keine Cookies, kein Tracking. Vercel Web Analytics und Speed Insights sind nicht eingebunden und dürfen es auch nicht werden, ohne die Datenschutzerklärung anzupassen.
 - Hosting bei Vercel Inc. (USA). Die Datenschutzerklärung nennt den Anbieter, die Datenübermittlung (EU-U.S. Data Privacy Framework, Standardvertragsklauseln) und den Auftragsverarbeitungsvertrag (Vercel DPA). Den DPA gibt es nur für Pro- und Enterprise-Teams; das Team läuft derzeit im Hobby-Tarif, der Satz ist deshalb als Platzhalter markiert.
 
+## Grafitecture-Feld
+
+Ganz unten in Impressum und Datenschutz steht das Grafitecture-Feld (Lime-Fläche mit Logo, „Marken mit KI.“, Link auf https://www.grafitecture.de/ in neuem Fenster), auf Deutsch und Englisch: auf `/impressum` und `/datenschutz` und in den Rechtsseiten des Prototyps. Quelle ist das Kit `kit/grafitecture-credit/` aus `grafitecture/lannee_webseite` (Version 1.2); Markup aus `grafitectureCredit(sprache)`, das CSS des Kits steht unverändert am Ende des Stylesheets. Beides setzen die Build-Skripte im Claude-Projekt ein.
+
+**Ausnahme von den Farbregeln:** Farben und Größe des Feldes (Fläche #dafd55, Schrift und Logo #435960, Linie Weiß, höchstens 403 px breit) gehören Grafitecture, nicht ecowerth. Sie bleiben so, auch wenn die Website sonst nur die ECOWERTH-Farben verwendet. Am Feld nichts anpassen; Änderungen nur im Kit.
+
 ## Änderungen
 
 Dieses Repository ist öffentlich. Deshalb liegen die lesbare Quelle, die Vorlagen und die Build-Skripte nicht hier, sondern im Claude-Projekt „ECOWERTH WEBSEITE“. Nach einer Änderung werden `public/index.html` (`protect.mjs … --standalone`) und die beiden Rechtsseiten (`legal.mjs`) dort neu gebaut und hierher gepusht.

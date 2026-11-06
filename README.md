@@ -24,6 +24,10 @@ Ganz unten in Impressum und Datenschutz steht das Grafitecture-Feld (Lime-Fläch
 
 **Ausnahme von den Farbregeln:** Farben und Größe des Feldes (Fläche #dafd55, Schrift und Logo #435960, Linie Weiß, höchstens 403 px breit) gehören Grafitecture, nicht ecowerth. Sie bleiben so, auch wenn die Website sonst nur die ECOWERTH-Farben verwendet. Am Feld nichts anpassen; Änderungen nur im Kit.
 
+## Logovarianten (Präsentation, 06.11.2026)
+
+Nach dem Footer der Website steht auf weißen Flächen eine Präsentation mit drei Logovarianten für ECOWERTH und die Marken ECOLOGICON, ECORELOOP und ECOINVEST („Ebenen“, „Faltband“, „Dach“) samt englischen Business-Deskriptoren und Claims. Sie erscheint auf allen Seiten außer Impressum und Datenschutz, auf Deutsch und Englisch; Direktlink nach dem Login: `/#/logovarianten`. Sie liegt wie die übrige Website verschlüsselt in `public/index.html` und wird im Claude-Projekt beim Bauen eingesetzt (`logo-praesentation.mjs`). Entwurf zur Abstimmung, vor dem Livegang entfernen.
+
 ## Änderungen
 
 Dieses Repository ist öffentlich. Deshalb liegen die lesbare Quelle, die Vorlagen und die Build-Skripte nicht hier, sondern im Claude-Projekt „ECOWERTH WEBSEITE“. Nach einer Änderung werden `public/index.html` (`protect.mjs … --standalone`) und die beiden Rechtsseiten (`legal.mjs`) dort neu gebaut und hierher gepusht.

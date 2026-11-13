@@ -26,7 +26,7 @@ Ganz unten in Impressum und Datenschutz steht das Grafitecture-Feld (Lime-Fläch
 
 ## Logovarianten (Präsentation, 06.11.2026, Variante 2 neu am 10.11., Variante 3 neu am 13.11.2026)
 
-Nach dem Footer der Website steht auf weißen Flächen eine Präsentation mit drei Logovarianten für ECOWERTH und die Marken ECOLOGICON, ECORELOOP und ECOINVEST („Ebenen“, „Dreiklang“, „Versatz“; „Dreiklang“ ersetzt seit 10.11.2026 das verworfene „Faltband“, „Versatz“ seit 13.11.2026 das verworfene „Dach“) samt englischen Business-Deskriptoren und Claims. Sie erscheint auf allen Seiten außer Impressum und Datenschutz, auf Deutsch und Englisch; Direktlink nach dem Login: `/#/logovarianten`. Sie liegt wie die übrige Website verschlüsselt in `public/index.html` und wird im Claude-Projekt beim Bauen eingesetzt (`logo-praesentation.mjs`). Entwurf zur Abstimmung, vor dem Livegang entfernen.
+Nach dem Footer der Website steht auf weißen Flächen eine Präsentation mit drei Logovarianten für ECOWERTH und die Marken ECOLOGICON, ECORELOOP und ECOINVEST („Ebenen“, „Dreiklang“, „Block“; „Dreiklang“ ersetzt seit 10.11.2026 das verworfene „Faltband“, „Block“ seit 13.11.2026 das verworfene „Dach“) samt englischen Business-Deskriptoren und Claims. Sie erscheint auf allen Seiten außer Impressum und Datenschutz, auf Deutsch und Englisch; Direktlink nach dem Login: `/#/logovarianten`. Sie liegt wie die übrige Website verschlüsselt in `public/index.html` und wird im Claude-Projekt beim Bauen eingesetzt (`logo-praesentation.mjs`). Entwurf zur Abstimmung, vor dem Livegang entfernen.
 
 ## Änderungen
 

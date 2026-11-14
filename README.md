@@ -31,14 +31,12 @@ Nach dem Footer der Website steht auf weißen Flächen eine Präsentation mit dr
 ## ECOLOGICON-Unterseiten, ECOACADEMY und ECOVENTURES (14.11.2026)
 
 - **ECOLOGICON** hat eine eigene Unternavigation (Übersicht · Referenzen · Portfolio · Projekte · News · Über uns · Kontakt) und Unterseiten: Portfolio mit zehn Leistungsfeldern, Pflichtenmatrix und Zielgruppen; acht Referenzen (Fallbeispiele); Projekte mit Regionsfilter und sieben Projektseiten (BattPro in Vorbereitung); News mit Kategoriefilter (zwei Beiträge als Detailseite, die übrigen öffnen bis zur Übernahme den Beitrag auf ecologicon.com); Über uns mit Unternehmen, Vision & Mission, Netzwerk & Kooperationen, Jobs, Expertenregistrierung und Kontakt.
-- **ECOACADEMY** (Wissen & Weiterbildung, Violett #6D41A9) und **ECOVENTURES** (Green Start-ups & Beteiligungen, Bernstein #E38917, Text #A25500) sind zwei untergeordnete Themengruppen mit eigenen Seiten und je einem Balken auf der Startseite.
+- **ECOACADEMY** (Wissen & Weiterbildung, Violett #6D41A9) und **ECOVENTURES** (Green Start-ups & Beteiligungen, Orange PANTONE 151 C #FF8200, Text #A25500) sind zwei untergeordnete Themengruppen mit eigenen Seiten und je einem Balken auf der Startseite.
 - Adressen nach dem Login: `/#/ecologicon/referenzen`, `/#/ecologicon/projekte`, `/#/ecologicon/news`, `/#/ecologicon/ueber-uns`, `/#/ecoacademy`, `/#/ecoventures`.
 
 ## Logos final, Startseite ohne Kreisanimation (14.11.2026)
 
-- Alle Logos stammen aus `LOGO_ECOWERTH_LOGO_FINAL` (Illustrator, CMYK) und liegen als SVG in den Markenfarben vor: ECOWERTH (im Footer weiß), ECOLOGICON, ECORELOOP, ECOINVEST, ECOACADEMY, ECOVENTURES, jeweils mit Unterzeile. Sie stehen im Kopf, im Footer, auf der Login-Seite, in Impressum und Datenschutz und überall, wo bisher Markenlogos standen. Unter 1280 px ist das Kopflogo etwas kleiner.
-- Unterzeile ECORELOOP auf der Website als „Reverse Logistics“ gesetzt (in der Vorlage steht „Reverse Logisics“).
-- Unterzeile ECOVENTURES „Start-up Partner“ in Bernstein #E38917 wie die Wortmarke (in der Vorlage röter, C0 M75 Y100 K0).
+- Alle Logos stammen seit 14.11.2026 (zweite Lieferung) aus `LOGO_ECOWERTH_LOGO_FINAL1` (Illustrator, CMYK, ECOVENTURES in PANTONE 151 C, Schrift in Pfaden) und liegen als SVG in den Markenfarben vor: ECOWERTH (im Footer weiß), ECOLOGICON, ECORELOOP, ECOINVEST, ECOACADEMY, ECOVENTURES, jeweils mit Unterzeile. Sie stehen im Kopf, im Footer, auf der Login-Seite, in Impressum und Datenschutz und überall, wo bisher Markenlogos standen. Unter 1280 px ist das Kopflogo etwas kleiner.
 - Die Kreisanimation im Hero der Startseite ist entfernt. Mobil zeigt der Hero dafür die ruhige, helle Hallenseite des Fotos hinter dem Text. Neue Hero-Hintergrundbilder sind geplant.
 
 ## Änderungen

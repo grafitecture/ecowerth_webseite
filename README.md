@@ -37,7 +37,7 @@ Die Präsentation der Logovarianten nach dem Footer ist seit 14.11.2026 gelösch
 ## Logos final, Navigation, ohne Kreisanimation (14.11.2026)
 
 - Alle Logos stammen seit 14.11.2026 (zweite Lieferung) aus `LOGO_ECOWERTH_LOGO_FINAL1` (Illustrator, CMYK, ECOVENTURES in PANTONE 151 C, Schrift in Pfaden) und liegen als SVG in den Markenfarben vor: ECOWERTH (im Footer weiß), ECOLOGICON, ECORELOOP, ECOINVEST, ECOACADEMY, ECOVENTURES, jeweils mit Unterzeile. Sie stehen im Kopf, im Footer, auf der Login-Seite, in Impressum und Datenschutz und überall, wo bisher Markenlogos standen. Unter 1280 px ist das Kopflogo etwas kleiner.
-- Die Kreisanimation im Hero der Startseite und auf der Login-Seite ist entfernt; das Login-Formular steht als Karte mittig. Mobil zeigt der Hero dafür die ruhige, helle Hallenseite des Fotos hinter dem Text. Neue Hero-Hintergrundbilder sind geplant.
+- Die Kreisanimation im Hero der Startseite und auf der Login-Seite ist entfernt; die Login-Seite ist dunkel wie der Footer (#043751) mit weißem Logo, das Formular steht als helle Karte mittig. Mobil zeigt der Hero dafür die ruhige, helle Hallenseite des Fotos hinter dem Text. Neue Hero-Hintergrundbilder sind geplant.
 - Navigation: ECOLOGICON, ECORELOOP und ECOINVEST als Wortmarke aus dem Logo (Farben wie im Logo, ohne Signet und Unterzeile); ECOACADEMY und ECOVENTURES als Untermenü unter „Über uns“ (eigene Seiten `/#/ecoacademy`, `/#/ecoventures`). Bis 1199 px Breite Menü-Knopf statt Navigationsleiste.
 
 ## Änderungen

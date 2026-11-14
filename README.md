@@ -46,6 +46,8 @@ Generiert mit Higgsfield (GPT Image 2.6), ruhige Nahaufnahmen, Motiv rechts, lin
 - Startseite-Hero: Hände sortieren Altbatterien. Ab 901 px Querformat; bis 900 px ein eigenes Hochformat, das unten bündig in voller Breite sitzt und nach oben ausläuft – die Hände liegen unter dem Text, nie dahinter.
 - ECOACADEMY und ECOVENTURES: Kopfbereich mit Foto (Menschen im Gespräch) unter einem Schleier in der Bereichsfarbe; darunter je eine Bildreihe (ACADEMY: Gruppe, Flipchart, Frage und Antwort; VENTURES: Pitch, Team am Board).
 - Alle Bilder als WebP im verschlüsselten Inhalt eingebettet (zusammen ca. 390 KB).
+
+Startseite: Balken ECOACADEMY und ECOVENTURES luftiger – mehr Innenabstand (64–112 px statt 40 px), größere Spaltenabstände, mehr Luft zwischen Kicker, Logo, Claim, Text und Punkten (14.11.2026).
 - Navigation: ECOLOGICON, ECORELOOP und ECOINVEST als Wortmarke aus dem Logo (Farben wie im Logo, ohne Signet und Unterzeile); ECOACADEMY und ECOVENTURES als Untermenü unter „Über uns“ (eigene Seiten `/#/ecoacademy`, `/#/ecoventures`). Bis 1199 px Breite Menü-Knopf statt Navigationsleiste.
 
 ## Änderungen

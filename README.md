@@ -28,6 +28,12 @@ Ganz unten in Impressum und Datenschutz steht das Grafitecture-Feld (Lime-Fläch
 
 Nach dem Footer der Website steht auf weißen Flächen eine Präsentation mit drei Logovarianten für ECOWERTH und die Marken ECOLOGICON, ECORELOOP und ECOINVEST („Ebenen“, „Dreiklang“, „Block“; „Dreiklang“ ersetzt seit 10.11.2026 das verworfene „Faltband“, „Block“ seit 13.11.2026 das verworfene „Dach“; dazu seit 13.11.2026 Variante 4 „Stufe“ nach Martins Entwurf) samt englischen Business-Deskriptoren und Claims. Sie erscheint auf allen Seiten außer Impressum und Datenschutz, auf Deutsch und Englisch; Direktlink nach dem Login: `/#/logovarianten`. Sie liegt wie die übrige Website verschlüsselt in `public/index.html` und wird im Claude-Projekt beim Bauen eingesetzt (`logo-praesentation.mjs`). Entwurf zur Abstimmung, vor dem Livegang entfernen.
 
+## ECOLOGICON-Unterseiten, ECOACADEMY und ECOVENTURES (14.11.2026)
+
+- **ECOLOGICON** hat eine eigene Unternavigation (Übersicht · Referenzen · Portfolio · Projekte · News · Über uns · Kontakt) und Unterseiten: Portfolio mit zehn Leistungsfeldern, Pflichtenmatrix und Zielgruppen; acht Referenzen (Fallbeispiele); Projekte mit Regionsfilter und sieben Projektseiten (BattPro in Vorbereitung); News mit Kategoriefilter (zwei Beiträge als Detailseite, die übrigen öffnen bis zur Übernahme den Beitrag auf ecologicon.com); Über uns mit Unternehmen, Vision & Mission, Netzwerk & Kooperationen, Jobs, Expertenregistrierung und Kontakt.
+- **ECOACADEMY** (Wissen & Weiterbildung, Petrol) und **ECOVENTURES** (Green Start-ups & Beteiligungen, Ocker) sind zwei untergeordnete Themengruppen mit eigenen Seiten und je einem Balken auf der Startseite.
+- Adressen nach dem Login: `/#/ecologicon/referenzen`, `/#/ecologicon/projekte`, `/#/ecologicon/news`, `/#/ecologicon/ueber-uns`, `/#/ecoacademy`, `/#/ecoventures`.
+
 ## Änderungen
 
 Dieses Repository ist öffentlich. Deshalb liegen die lesbare Quelle, die Vorlagen und die Build-Skripte nicht hier, sondern im Claude-Projekt „ECOWERTH WEBSEITE“. Nach einer Änderung werden `public/index.html` (`protect.mjs … --standalone`) und die beiden Rechtsseiten (`legal.mjs`) dort neu gebaut und hierher gepusht.
@@ -42,4 +48,4 @@ Ein geteiltes Passwort ist ein Sichtschutz, keine Zugriffskontrolle.
 2. Vercel-Team auf Pro umstellen: nur dann gilt der DPA, und Hobby ist laut Vercel ausschließlich für nicht-kommerzielle Nutzung. Danach den Platzhalter zum DPA entfernen.
 3. Domains im Vercel-Projekt hinzufügen und die DNS-Einträge beim Domain-Anbieter setzen.
 4. Login entfernen, `robots.txt` und den Header `X-Robots-Tag` freigeben.
-5. Kontaktformular erst mit Formulardienst und ergänzter Datenschutzerklärung in Betrieb nehmen.
+5. Formulare (Kontakt ecowerth, Kontakt ECOLOGICON, Expertenregistrierung mit Lebenslauf-Upload) erst mit Formulardienst und ergänzter Datenschutzerklärung in Betrieb nehmen.

@@ -37,7 +37,15 @@ Die Präsentation der Logovarianten nach dem Footer ist seit 14.11.2026 gelösch
 ## Logos final, Navigation, ohne Kreisanimation (14.11.2026)
 
 - Alle Logos stammen seit 14.11.2026 (zweite Lieferung) aus `LOGO_ECOWERTH_LOGO_FINAL1` (Illustrator, CMYK, ECOVENTURES in PANTONE 151 C, Schrift in Pfaden) und liegen als SVG in den Markenfarben vor: ECOWERTH (im Footer weiß), ECOLOGICON, ECORELOOP, ECOINVEST, ECOACADEMY, ECOVENTURES, jeweils mit Unterzeile. Sie stehen im Kopf, im Footer, auf der Login-Seite, in Impressum und Datenschutz und überall, wo bisher Markenlogos standen. Unter 1280 px ist das Kopflogo etwas kleiner.
-- Die Kreisanimation im Hero der Startseite und auf der Login-Seite ist entfernt; die Login-Seite ist dunkel wie der Footer (#043751) mit weißem Logo, das Formular steht als helle Karte mittig. Mobil zeigt der Hero dafür die ruhige, helle Hallenseite des Fotos hinter dem Text. Neue Hero-Hintergrundbilder sind geplant.
+- Die Kreisanimation im Hero der Startseite und auf der Login-Seite ist entfernt; die Login-Seite ist dunkel wie der Footer (#043751) mit weißem Logo, das Formular steht als helle Karte mittig. Mobil zeigt der Hero dafür die ruhige, helle Hallenseite des Fotos hinter dem Text.
+
+## Neue Bilder (14.11.2026)
+
+Generiert mit Higgsfield (GPT Image 2.6), ruhige Nahaufnahmen, Motiv rechts, links Ruhe für die Schrift.
+
+- Startseite-Hero: Hände sortieren Altbatterien. Ab 901 px Querformat; bis 900 px ein eigenes Hochformat, das unten bündig in voller Breite sitzt und nach oben ausläuft – die Hände liegen unter dem Text, nie dahinter.
+- ECOACADEMY und ECOVENTURES: Kopfbereich mit Foto (Menschen im Gespräch) unter einem Schleier in der Bereichsfarbe; darunter je eine Bildreihe (ACADEMY: Gruppe, Flipchart, Frage und Antwort; VENTURES: Pitch, Team am Board).
+- Alle Bilder als WebP im verschlüsselten Inhalt eingebettet (zusammen ca. 390 KB).
 - Navigation: ECOLOGICON, ECORELOOP und ECOINVEST als Wortmarke aus dem Logo (Farben wie im Logo, ohne Signet und Unterzeile); ECOACADEMY und ECOVENTURES als Untermenü unter „Über uns“ (eigene Seiten `/#/ecoacademy`, `/#/ecoventures`). Bis 1199 px Breite Menü-Knopf statt Navigationsleiste.
 
 ## Änderungen

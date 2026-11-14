@@ -24,9 +24,9 @@ Ganz unten in Impressum und Datenschutz steht das Grafitecture-Feld (Lime-Fläch
 
 **Ausnahme von den Farbregeln:** Farben und Größe des Feldes (Fläche #dafd55, Schrift und Logo #435960, Linie Weiß, höchstens 403 px breit) gehören Grafitecture, nicht ecowerth. Sie bleiben so, auch wenn die Website sonst nur die ECOWERTH-Farben verwendet. Am Feld nichts anpassen; Änderungen nur im Kit.
 
-## Logovarianten (Präsentation, 06.11.2026, Variante 2 neu am 10.11., Variante 3 neu am 13.11.2026)
+## Logovarianten (entfernt am 14.11.2026)
 
-Nach dem Footer der Website steht auf weißen Flächen eine Präsentation mit drei Logovarianten für ECOWERTH und die Marken ECOLOGICON, ECORELOOP und ECOINVEST („Ebenen“, „Dreiklang“, „Block“; „Dreiklang“ ersetzt seit 10.11.2026 das verworfene „Faltband“, „Block“ seit 13.11.2026 das verworfene „Dach“; dazu seit 13.11.2026 Variante 4 „Stufe“ nach Martins Entwurf) samt englischen Business-Deskriptoren und Claims. Sie erscheint auf allen Seiten außer Impressum und Datenschutz, auf Deutsch und Englisch; Direktlink nach dem Login: `/#/logovarianten`. Sie liegt wie die übrige Website verschlüsselt in `public/index.html` und wird im Claude-Projekt beim Bauen eingesetzt (`logo-praesentation.mjs`). Entwurf zur Abstimmung, vor dem Livegang entfernen.
+Die Präsentation der Logovarianten nach dem Footer ist seit 14.11.2026 gelöscht (Auftrag Martin); `/#/logovarianten` führt zur Startseite.
 
 ## ECOLOGICON-Unterseiten, ECOACADEMY und ECOVENTURES (14.11.2026)
 
@@ -34,10 +34,11 @@ Nach dem Footer der Website steht auf weißen Flächen eine Präsentation mit dr
 - **ECOACADEMY** (Wissen & Weiterbildung, Violett #6D41A9) und **ECOVENTURES** (Green Start-ups & Beteiligungen, Orange PANTONE 151 C #FF8200, Text #A25500) sind zwei untergeordnete Themengruppen mit eigenen Seiten und je einem Balken auf der Startseite.
 - Adressen nach dem Login: `/#/ecologicon/referenzen`, `/#/ecologicon/projekte`, `/#/ecologicon/news`, `/#/ecologicon/ueber-uns`, `/#/ecoacademy`, `/#/ecoventures`.
 
-## Logos final, Startseite ohne Kreisanimation (14.11.2026)
+## Logos final, Navigation, ohne Kreisanimation (14.11.2026)
 
 - Alle Logos stammen seit 14.11.2026 (zweite Lieferung) aus `LOGO_ECOWERTH_LOGO_FINAL1` (Illustrator, CMYK, ECOVENTURES in PANTONE 151 C, Schrift in Pfaden) und liegen als SVG in den Markenfarben vor: ECOWERTH (im Footer weiß), ECOLOGICON, ECORELOOP, ECOINVEST, ECOACADEMY, ECOVENTURES, jeweils mit Unterzeile. Sie stehen im Kopf, im Footer, auf der Login-Seite, in Impressum und Datenschutz und überall, wo bisher Markenlogos standen. Unter 1280 px ist das Kopflogo etwas kleiner.
-- Die Kreisanimation im Hero der Startseite ist entfernt. Mobil zeigt der Hero dafür die ruhige, helle Hallenseite des Fotos hinter dem Text. Neue Hero-Hintergrundbilder sind geplant.
+- Die Kreisanimation im Hero der Startseite und auf der Login-Seite ist entfernt; das Login-Formular steht als Karte mittig. Mobil zeigt der Hero dafür die ruhige, helle Hallenseite des Fotos hinter dem Text. Neue Hero-Hintergrundbilder sind geplant.
+- Navigation: ECOLOGICON, ECORELOOP und ECOINVEST als Wortmarke aus dem Logo (Farben wie im Logo, ohne Signet und Unterzeile); ECOACADEMY und ECOVENTURES als Untermenü unter „Über uns“ (eigene Seiten `/#/ecoacademy`, `/#/ecoventures`). Bis 1199 px Breite Menü-Knopf statt Navigationsleiste.
 
 ## Änderungen
 

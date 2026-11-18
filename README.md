@@ -50,6 +50,15 @@ Generiert mit Higgsfield (GPT Image 2.6), ruhige Nahaufnahmen, Motiv rechts, lin
 Startseite: Balken ECOACADEMY und ECOVENTURES luftiger – mehr Innenabstand (64–112 px statt 40 px), größere Spaltenabstände, mehr Luft zwischen Kicker, Logo, Claim, Text und Punkten (14.11.2026).
 - Navigation: ECOLOGICON, ECORELOOP und ECOINVEST als Wortmarke aus dem Logo (Farben wie im Logo, ohne Signet und Unterzeile); ECOACADEMY und ECOVENTURES als Untermenü unter „Über uns“ (eigene Seiten `/#/ecoacademy`, `/#/ecoventures`). Bis 1199 px Breite Menü-Knopf statt Navigationsleiste.
 
+## LinkedIn-Kanal (Präsentation unter dem Footer, 18.11.2026)
+
+Unter dem Footer steht ein klar abgesetzter Präsentationsbereich (Farbleiste, „Ende der Website“, „Neuer Bereich · Präsentation“), der nicht zur Website gehört und vor dem Livegang entfernt wird:
+
+- Simulation der LinkedIn-Unternehmensseite ECOWERTH in drei Ansichten (Desktop, Tablet, Smartphone, einzeln oder alle drei), mit klickbaren Reitern, Dokumenten und Beitragsliste; simulierter Stand 02.04.2027.
+- Kanalstrategie, Seitenaufbau (alle Felder zum Kopieren), Fokusseiten, Umstellung der bisherigen ECOLOGICON-Seite.
+- Redaktionsplan: 2 Vorlauf-Beiträge (Dez. 2026), 35 Beiträge in zwölf Wochen ab 12.01.2027, 5 Reserve-Beiträge – alle ausformuliert.
+- Direktlink nach dem Login: `/#/linkedin`. Auf Impressum und Datenschutz ausgeblendet. Bilder und Logos stammen aus der Website selbst (keine zusätzlichen Dateien, keine fremden Server).
+
 ## Änderungen
 
 Dieses Repository ist öffentlich. Deshalb liegen die lesbare Quelle, die Vorlagen und die Build-Skripte nicht hier, sondern im Claude-Projekt „ECOWERTH WEBSEITE“. Nach einer Änderung werden `public/index.html` (`protect.mjs … --standalone`) und die beiden Rechtsseiten (`legal.mjs`) dort neu gebaut und hierher gepusht.

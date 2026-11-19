@@ -59,6 +59,12 @@ Unter dem Footer steht ein klar abgesetzter Präsentationsbereich (Farbleiste, �
 - Redaktionsplan: 2 Vorlauf-Beiträge (Dez. 2026), 35 Beiträge in zwölf Wochen ab 12.01.2027, 5 Reserve-Beiträge – alle ausformuliert.
 - Direktlink nach dem Login: `/#/linkedin`. Auf Impressum und Datenschutz ausgeblendet. Bilder und Logos stammen aus der Website selbst (keine zusätzlichen Dateien, keine fremden Server).
 
+## Dunkle Ansicht, Wissen & Wachstum, Sachverständigenbüro (19.11.2026)
+
+- **Hell / Dunkel:** Die Website öffnet in der dunklen Ansicht in #043751 wie ECOWERTH CAMPUS (Abstimmung mit Florian Werthmann, 18.11.2026). Ein dezenter Schalter in der Kopfzeile (auch auf dem Telefon sichtbar) wechselt zur hellen Ansicht; die Wahl merkt sich der Browser (`ecowerth-theme`). In der dunklen Ansicht stehen die Logos in Weiß, die Wortmarken der Navigation mit aufgehellten Markenfarben. Der LinkedIn-Bereich unter dem Footer bleibt hell.
+- **ECOACADEMY und ECOVENTURES** in #043751 und Abstufungen statt Violett/Orange: Balken und Seitenköpfe als dunkelblaue Flächen, Logos in Dunkelblau bzw. Weiß. Unterschieden werden die beiden gleichwertigen Bereiche durch je eine dezente Zusatzfarbe (ECOACADEMY Salbei #85B8A5, ECOVENTURES Sand #C1A681) an Kante, Linien, Punkten und Chips.
+- **Sachverständigenbüro Florian Werthmann** als eigene kleine Website unter „Über uns“ (`/#/sachverstaendiger`): Übersicht, Florian Werthmann, Leistungen, Herstellerverantwortung (OfH), Anfrage – Deutsch und Englisch, Inhalte aus dem Masterdokument vom 18.11.2026. Später zusätzlich unter florianwerthmann.com vorgesehen.
+
 ## Änderungen
 
 Dieses Repository ist öffentlich. Deshalb liegen die lesbare Quelle, die Vorlagen und die Build-Skripte nicht hier, sondern im Claude-Projekt „ECOWERTH WEBSEITE“. Nach einer Änderung werden `public/index.html` (`protect.mjs … --standalone`) und die beiden Rechtsseiten (`legal.mjs`) dort neu gebaut und hierher gepusht.

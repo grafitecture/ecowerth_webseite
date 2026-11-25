@@ -66,6 +66,13 @@ Unter dem Footer steht ein klar abgesetzter Präsentationsbereich (Farbleiste, �
 - **Hero ab 1200 px:** eigenes Breitbild (21 : 9, Higgsfield-Outpaint aus dem bisherigen Hero-Foto), rechts verankert, damit die Hand mit der Batterie auch auf breiten Bildschirmen sichtbar bleibt.
 - **Sachverständigenbüro Florian Werthmann** als eigene kleine Website unter „Über uns“ (`/#/sachverstaendiger`): Übersicht, Florian Werthmann, Leistungen, Herstellerverantwortung (OfH), Anfrage – Deutsch und Englisch, Inhalte aus dem Masterdokument vom 18.11.2026. Später zusätzlich unter florianwerthmann.com vorgesehen.
 
+## Batterielager Röthlein (25.11.2026)
+
+- **ECOINVEST:** neuer Abschnitt „Projekt · Batterielager Röthlein“ zwischen ECO Park Röthlein und den Leistungen: Einordnung, Status (genehmigt, im Bau, Betrieb ab 2027), Kette Rücknahme → Batterielager → Sortierung & Recycling, Eckdaten. Direktlink nach dem Login: `/#/ecoinvest` (Sprungziel `bl-roethlein`).
+- **Projektseite** `/#/ecoinvest/batterielager` mit dem Website-Beitrag, Projektdaten und Bildplatzhaltern; ECOINVEST bleibt in der Navigation markiert.
+- **ECORELOOP:** Hinweis „Infrastruktur im Verbund“ vor dem Abschluss der Seite, verlinkt auf den Abschnitt bei ECOINVEST.
+- Mengen nur abstrakt („mehrere hundert Tonnen“, „mehrere tausend Tonnen pro Jahr“). Projektstatus, Hinweis zur Auslastung und Bildauswahl sind vor der Veröffentlichung freizugeben (rot markiert). Deutsch und Englisch.
+
 ## Änderungen
 
 Dieses Repository ist öffentlich. Deshalb liegen die lesbare Quelle, die Vorlagen und die Build-Skripte nicht hier, sondern im Claude-Projekt „ECOWERTH WEBSEITE“. Nach einer Änderung werden `public/index.html` (`protect.mjs … --standalone`) und die beiden Rechtsseiten (`legal.mjs`) dort neu gebaut und hierher gepusht.
